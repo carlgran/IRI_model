@@ -1,0 +1,15 @@
+0           Coordinates(type)_geographical/geometrical_(0/1)
+2021        Year
+0303        Date(mmdd)
+1           local/universal_time(0/1)
+1           variable
+37.8          Latitude
+75.4          Longitude
+11.0000     Time_in_decimal_notation
+100         Height
+1000.       Max_height_for_TEC_integration
+60          Initial_value_for_choosen_variable
+600        Final_value_for_choosen_variable
+10          Increment_step_for_choosen_variable
+0           Options_standard/custom _(0/1)
+
